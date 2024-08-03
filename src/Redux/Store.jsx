@@ -2,7 +2,7 @@ import { configureStore } from "@reduxjs/toolkit";
 import cartRaducer from "./CartSlice";
 
 const store = configureStore({
-    devTools:true,
+    devTools:false,
     reducer:{
         
         cart:cartRaducer
