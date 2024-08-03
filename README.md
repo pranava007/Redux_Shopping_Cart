@@ -1,3 +1,5 @@
+#Redux_Shopping_Cart
+
 Project Overview
 This project is a basic e-commerce shopping cart application built with React and Redux Toolkit. It allows users to add, remove, and manage product quantities in their cart.
 
